@@ -21,3 +21,5 @@ curso).
 nuevo debe ser: Costo efectivo. En dicha columna, a cada valor se le debe restar el valor de
 ‘Aportes públicos’.
 - Por último, actualice 5 cursos y 3 operadores.
+
+https://github.com/MauricioJMoralesV/Modulo3-Ejercicio3.git
